@@ -1,2 +1,13 @@
-# Meus-Desafios-Criativos
-Quero que a IA gere um guia de curativos para enfermeiros, com o objetivo de conseguir avaliar uma lesão por pressão. Considere o seguinte contexto: Lesão por pressão, tipo de cobertura, indicação da cobertura, avaliação de quanto tempo. O conteúdo deve ter formato de lista simples. Evite linguagens que não se adeque a enfermagem.
+Aceleração Santander
+guia-curativos-enfermagem/
+│
+├── README.md
+│
+├── docs/
+│   ├── avaliacao-lesao-pressao.md
+│   ├── classificacao-lesoes.md
+│   ├── tipos-de-coberturas.md
+│   ├── indicacao-de-curativos.md
+│   └── referencias.md
+│
+└── LICENSE
